@@ -190,15 +190,14 @@ I am new here. Try to learn new new web development project.
 					Events and Shows
 				</h1>
 				<p>
-					With the idea of imparting programming
-					knowledge, Mr. Sandeep Jain, an IIT
-					Roorkee alumnus started a dream,
-					GeeksforGeeks. Whether programming
+					With the idea of imparting 
+					knowledge, A person started a dream,
+					AXYZ. Whether programming
 					excites you or you feel stifled,
 					wondering how to prepare for
 					interview questions or
 					how to ace data structures and
-					algorithms, GeeksforGeeks is a
+					algorithms, AXYZ is a
 					one-stop solution. With every
 					tick of time, we are adding arrows
 					in our quiver. From articles on
@@ -235,12 +234,11 @@ I am new here. Try to learn new new web development project.
 						</h3>
 						<p>
 							With the idea of imparting programming
-							knowledge, Mr. Sandeep Jain, an IIT
-							Roorkee alumnus started a dream,
-							GeeksforGeeks. Whether programming
+							knowledge, A Person alumnus started a dream,
+							AXYZ. Whether programming
 							excites you or you feel stifled,
 							how to ace data structures and
-							algorithms, GeeksforGeeks is a
+							algorithms, AXYZs is a
 							one-stop solution.
 						</p>
 						<a href="#">View Details</a>
@@ -259,12 +257,11 @@ I am new here. Try to learn new new web development project.
 						</h3>
 						<p>
 							With the idea of imparting programming
-							knowledge, Mr. Sandeep Jain, an IIT
-							Roorkee alumnus started a dream,
-							GeeksforGeeks. Whether programming
+							knowledge, A person started a dream,
+							AXYZ. Whether programming
 							excites you or you feel stifled,
 							how to ace data structures and
-							algorithms, GeeksforGeeks is a
+							algorithms, AXYZ is a
 							one-stop solution.
 						</p>=
 						<a href="#">View Details</a>
@@ -283,12 +280,11 @@ I am new here. Try to learn new new web development project.
 						</h3>
 						<p>
 							With the idea of imparting programming
-							knowledge, Mr. Sandeep Jain, an IIT
-							Roorkee alumnus started a dream,
-							GeeksforGeeks. Whether programming
+							knowledge, A Person started a dream,
+							AXYZ. Whether programming
 							excites you or you feel stifled,
 							how to ace data structures and
-							algorithms, GeeksforGeeks is a
+							algorithms, AXYZ is a
 							one-stop solution.
 						</p>
 						<a href="#">View Details</a>
