@@ -1,2 +1,2 @@
 # Hello-World
-This repository for practice used only.
+This repository is for practice used only.
